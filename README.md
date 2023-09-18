@@ -4,7 +4,7 @@
 
 *Développeur web professionnel.*
 
-[Accueil](test.fr) - [Projets]/S01E11-Atelier-Recap-Exo/projets.md - [CV](test2.fr) - [Contact](test3.fr)
+[Accueil](test.fr) - [Projets](/S01E11-Atelier-Recap-Exo/projets.md) - [CV](test2.fr) - [Contact](test3.fr)
 
 **Présentation.**
 
