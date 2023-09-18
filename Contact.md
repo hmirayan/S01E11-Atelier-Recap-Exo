@@ -14,9 +14,9 @@
 
 ☎️ 06 45 73 25 20
 
-👔 [LinkedIn]
+👔 [LinkedIn]()
 
-🐦 [Twitter]
+🐦 [Twitter]()
 
 ---
 
