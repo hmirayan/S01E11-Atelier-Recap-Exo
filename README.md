@@ -4,7 +4,7 @@
 
 *Développeur web professionnel.*
 
-
+[Accueil](test.fr) - [Projets](test1.fr) - [CV](test2.fr) - [Contact](test3.fr)
 
 **Présentation.**
 
@@ -12,4 +12,4 @@ Le chemin de ma vie est une épopée riche en rebondissements. Je suis Aragorn, 
 
 Aujourd'hui, je suis reconnu comme un développeur web professionnel de renom. J'ai acquis un large éventail de compétences, maîtrisant HTML, CSS, JavaScript, React, Node.js, et bien d'autres technologies modernes. Parmi mes projets notables figurent la création de sites web élégants pour des musées d'histoire, des écoles d'art elfique et même un site de réservation de voyages à la Comté. Tout comme dans mes aventures passées, je m'efforce de faire preuve de résilience et de détermination dans mon travail de développeur web. Les défis sont mes nouvelles batailles, et la résolution de problèmes est ma nouvelle épée. Mon histoire rappelle à tous que les héros peuvent se trouver dans les endroits les plus inattendus, et que ma transition du champ de bataille au monde virtuel est une source d'inspiration pour tous ceux qui cherchent à se réinventer et à apporter leur contribution au monde.
 
-© 2023 - Aragorn du Gondor -
+© 2023 - Aragorn du Gondor - [Mecontacter](test4.fr)
