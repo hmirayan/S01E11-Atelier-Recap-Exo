@@ -1,4 +1,4 @@
-![Photo](~/Desktop/866-800x200.jpg)
+![Photo](/Images/866-800x200.jpg)
 
 # Aragorn du Gondor
 
