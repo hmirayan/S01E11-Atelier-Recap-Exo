@@ -49,3 +49,5 @@ aragorn@middleearth.fr
 • **Tir à l'arc**
 
 ---
+
+© 2023 - Aragorn du Gondor - [Me contacter]()
