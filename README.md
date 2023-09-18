@@ -4,7 +4,7 @@
 
 *Développeur web professionnel*
 
-[Accueil](test.fr) - [Projets](/projets.md) - [CV](test2.fr) - [Contact](test3.fr)
+[Accueil]() - [Projets](/projets.md) - [CV]() - [Contact]()
 
 # Présentation
 
