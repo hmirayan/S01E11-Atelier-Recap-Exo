@@ -13,3 +13,7 @@
 | Elrond de Fondcombe | 2022 | HTML, JavaScript | [Fondcombe]() |
 | Gimli | 2021 | Node.js | [Moria]() |
 | Legolas | 2017 | HTML,CSS | [ForetNoire]()
+
+---
+
+© 2023 - Aragorn du Gondor - [Me contacter]()
