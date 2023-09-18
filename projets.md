@@ -4,7 +4,7 @@
 
 *Développeur web professionnel*
 
-[Accueil](/README.md) - [Projets]() - [CV]() - [Contact]()
+[Accueil](/README.md) - [Projets]() - [CV](/CV.md) - [Contact]()
 
 ## Mes projets
 
