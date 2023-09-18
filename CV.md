@@ -11,7 +11,9 @@
 **Aragorn du Gondor**
 
 12 rue du Royaume du Gondor
+
 1000 Gondor
+
 aragorn@middleearth.fr
 
 
@@ -21,22 +23,22 @@ aragorn@middleearth.fr
 **GondorTech** - Minas Tirith, Gondor  
 *Janvier 2022 - Présent*
 
-• **Développeur Front-End**
+• **Développeur Front-End** /
 **Middle-Earth Web Solutions** - Rivendell  
 *Avril 2017 - Décembre 2021*
 
-• **Assistant Développeur**
+• **Assistant Développeur** /
 **Shire Web Development** - La Comté  
 *Janvier 2015 - Mars 2017*
 
 ### Formation
 
-• **Certificat en Développement Web Full Stack**
+• **Certificat en Développement Web Full Stack** /
 **École des Arts Elfiques** - Lothlórien  
 *2015 - 2016*
 
 • **Cours de Développement Web Avancé**
-**Université d'Erebor** - Erebor  
+/ **Université d'Erebor** - Erebor  
 *2013*
 
 
