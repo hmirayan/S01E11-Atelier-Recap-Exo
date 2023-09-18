@@ -6,7 +6,7 @@
 
 [Accueil](/README.md) - [Projets]() - [CV]() - [Contact]()
 
-# Mes projets
+## Mes projets
 
 | **Client** | **Dates** | **Technologies** | **Lien** |
 | --------- | --------- | --------- | --------- |
